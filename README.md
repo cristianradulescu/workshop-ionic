@@ -1,5 +1,6 @@
 # workshop-ionic
 
+Windows cmd.exe (not Powershell):
 ```shell
 # Build Docker image
 $ docker build -t node:ionic .
